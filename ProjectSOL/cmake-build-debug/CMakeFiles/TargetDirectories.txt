@@ -1,0 +1,4 @@
+/Users/ernaldonilaj/CLionProjects/ProjectSOL/cmake-build-debug/CMakeFiles/masterworker.dir
+/Users/ernaldonilaj/CLionProjects/ProjectSOL/cmake-build-debug/CMakeFiles/collector.dir
+/Users/ernaldonilaj/CLionProjects/ProjectSOL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ernaldonilaj/CLionProjects/ProjectSOL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
